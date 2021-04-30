@@ -1,5 +1,5 @@
 Name:           python-dataclasses
-Version:        0.7
+Version:        0.8
 Release:        1
 Summary:        A backport of the dataclasses module for Python 3.X
 License:        Apache-2.0
