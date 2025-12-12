@@ -1,6 +1,6 @@
 Name:           python-dataclasses
 Version:        0.8
-Release:        3
+Release:        4
 Summary:        A backport of the dataclasses module for Python 3.X
 License:        Apache-2.0
 URL:            https://github.com/ericvsmith/dataclasses
